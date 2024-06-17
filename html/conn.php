@@ -3,7 +3,7 @@
         $username = "root"; // Khai báo username
         $password = "imaira2003";      // Khai báo password
         $server   = "localhost";   // Khai báo server
-        $dbname   = "blue";      // Khai báo database
+        $dbname   = "nro";      // Khai báo database
 
 
         $connect = new mysqli($server, $username, $password, $dbname);

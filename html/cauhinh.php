@@ -1,17 +1,17 @@
 ﻿<?php
 
 // Cấu Hình Cơ Bản
-$_domain = ''; // điền domain của sự kiện giới thiệu của bạn
+$_domain = 'ngocrongbando.online'; // điền domain của sự kiện giới thiệu của bạn
 $_IP = $_SERVER['REMOTE_ADDR']; // IP hiển thị ở phần cuối trang
 $_tenmaychu = 'Ngọc Rồng BANDO'; // Tên máy chủ hiển thị ở cuối trang
-$_mienmaychu = '';
+$_mienmaychu = 'ngocrongbando.online';
 
 
 // MySQL
 $db_host = "localhost";
 $db_user = "root";
 $db_pass = "imaira2003";
-$db_name = "blue";
+$db_name = "nro";
 
 
 // PHIÊN BẢN FILE GAME

@@ -1,6 +1,6 @@
 <?php
 $ip_sv = "localhost";
-$dbname_sv = "blue";
+$dbname_sv = "nro";
 $user_sv = "root";
 $pass_sv = "imaira2003";
 
