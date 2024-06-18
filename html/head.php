@@ -53,21 +53,21 @@ include 'connect.php';
                     </div>
                     <div class="text-center pt-2">
                         <div style="display: inline-block;">
-                            <a href="../download/Umi.apk"> <img class="icon-download" src="../image/android.png">
+                            <a href="../download/Bando.apk"> <img class="icon-download" src="../image/android.png">
                             </a><br>
                             <small class="text-dark">
                                 <?php echo $_android; ?>
                             </small>
                         </div>
                         <div style="display: inline-block;">
-                            <a href="../download/Umi.rar"><img class="icon-download" src="../image/pc.png">
+                            <a href="../download/Bando.rar"><img class="icon-download" src="../image/pc.png">
                             </a><br>
                             <small class="text-dark">
                                 <?php echo $_windows; ?>
                             </small>
                         </div>
                         <div style="display: inline-block;">
-                        <a href="../download/Umi.ipa"><img class="icon-download" src="../image/ip.png">
+                        <a href="../download/Bando.ipa"><img class="icon-download" src="../image/ip.png">
 						</a><br>
                             <small class="text-dark">
                                 <?php echo $_iphone; ?>
