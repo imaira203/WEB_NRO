@@ -62,7 +62,7 @@ include 'connect.php';
                             </small>
                         </div>
                         <div style="display: inline-block;">
-                        <a href="https://zalo.me/g/glvrwf465"><img class="icon-download" src="../image/zalo.png">
+                        <a href="https://zalo.me/g/puldhk947"><img class="icon-download" src="../image/zalo.png">
 						</a><br>
                             <small class="text-dark">
                                 <?php echo $_Zalo; ?>
